@@ -1,0 +1,2 @@
+for the first code file is the Readfile.py where i have written a code that will read the input.txt file and modify the content in it and save the new data to output.txt
+my next code file is the Exceptionhandling.py which enables the user to type any file name and the code tries to fecth the file and displays its content on the terminal
